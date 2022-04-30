@@ -77,6 +77,6 @@ let simple_solution = (s,total_zero=0,count = 1) => {
 
 /*
 
-toString()의 인자로 진수값을 넘겨주면 해당 진법으로 변환한 값을 문자열로 반환
+toString()의 인자로 진수값을 전달하면 해당 진법으로 변환한 값을 문자열로 반환
 
 */
